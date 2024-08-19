@@ -6,7 +6,7 @@
 ### Way to connect to database
 ```
 	ssh lokeshs@10.0.4.11
-	mysql -ulokesh_s -pR2zrh_8XmEjBc
+	mysql -ulokesh_s -
 ```
 
 ### Good tutorials to learn jdbc connection
